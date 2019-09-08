@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="framework">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://C:/Program Files (x86)/Java/GridWorldCode/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/Java/GridWorldCode/framework" />
+      <root url="file://C:/Program Files (x86)/Java/GridWorldCode/projects/boxBug" />
+      <root url="file://C:/Program Files (x86)/Java/GridWorldCode/projects/critters" />
+      <root url="file://C:/Program Files (x86)/Java/GridWorldCode/projects/firstProject" />
+    </SOURCES>
+  </library>
+</component>
